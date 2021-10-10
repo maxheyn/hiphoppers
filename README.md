@@ -7,7 +7,7 @@
 [GitHub Release][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Planet Minecraft][planetminecraft]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Issues][issues]
 
 </div>
-<h1>Babees - Adorable Baby Bees</h1>
+<h1>Hip Hoppers - Permanent Baby Bunnies</h1>
 Datapack for Minecraft 1.17.1+! Keep permanent baby rabbits!<br>
 
 - Obtain a rabbit's foot and toss it at a rabbit to make it a baby rabbit... permanently! Ignore the implications...
